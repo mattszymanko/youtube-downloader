@@ -1,5 +1,5 @@
 # youtube-downloader
-A simple YouTube video and audio downloader based on PyTube and PyQt5
+A simple YouTube video and audio downloader based on PyTube and PyQt5.
 <br>[Download](https://github.com/mattszymanko/youtube-downloader/releases/)
 
 ## Disclaimer
