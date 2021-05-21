@@ -1,10 +1,12 @@
-# Compilation of youtube-downloader
-Step 1. Install required dependencies:
+### Thank you for displaying interest in compiling youtube-downloader!
 
-For compiling youtube-downloader you need PyQt5 and PyTube. If you want to compile this file to .exe, PyInstaller is recommended.
-**NOTE:** If you use an older version of PyTube please update it. See https://github.com/pytube/pytube/issues/990 for more info.
+# Compiling youtube-downloader 101
+### Step 1. Install required dependencies:
 
-Step 2. Compile it.
+You need [PyQt5](https://pypi.org/project/PyQt5/) and [PyTube](https://pypi.org/project/pytube/) to compile youtube-downloader. If you want to compile it to .exe, [PyInstaller](https://www.pyinstaller.org/) is recommended.
+<br>**NOTE:** If you're using an older version of PyTube, please update it. See [this](https://github.com/pytube/pytube/issues/990) for more details.
 
-For compilation, as mentioned above, we recommend PyInstaller. You can find documentation for pyinstaller [here](https://github.com/pytube/pytube/issues/990).
-**NOTE:** After succesfull compilation, you might run into error like this: `PyQt5  not found.` In such case you should pass the `--hidden-import Pyqt5` argument to the compiler.
+### Step 2. Compile it.
+
+For compilation, as mentioned above, we recommend PyInstaller. You can find documentation for PyInstaller [here](https://github.com/pytube/pytube/tree/master/docs).
+<br>**NOTE:** After a successful compilation, you may encounter this error: `PyQt5 not found .` <br>In such case, you should pass the `--hidden-import Pyqt5` argument to the compiler.
