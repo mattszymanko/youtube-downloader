@@ -1,7 +1,7 @@
 #YouTube video and audio downloader based on PyTube and PyQt5
 #Date: 20.05.2021
 #Version: 0.2
-#Original author: Teo Altinoz <teojakub06@gmai.com> GitHub: TheLostByte
+#Original author: Matt Szymanko <github.com/mattszymanko> & Teo Altinoz <github.com/thelostbyte>
 
 
 from PyQt5 import *
