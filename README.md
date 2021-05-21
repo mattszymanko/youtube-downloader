@@ -4,7 +4,7 @@ A simple YouTube video and audio downloader based on PyTube and PyQt5
 
 ## Disclaimer
 
-This is a small, light project. I don't plan on developing it further, I just uploaded it here.
+This is a small project, not very important project. I don't plan on developing it further, I just uploaded it here.
 If you have any issues - Sorry, I won't fix them. :)
 
 ## Features
