@@ -8,5 +8,5 @@ You need [PyQt5](https://pypi.org/project/PyQt5/) and [PyTube](https://pypi.org/
 
 ### Step 2. Compile it.
 
-For compilation, as mentioned above, we recommend PyInstaller. You can find documentation for PyInstaller [here](https://github.com/pytube/pytube/tree/master/docs).
+For compilation, as mentioned above, we recommend PyInstaller. You can find documentation for PyInstaller [here](https://www.pyinstaller.org/).
 <br>**NOTE:** After a successful compilation, you may encounter this error: `PyQt5 not found .` <br>In such case, you should pass the `--hidden-import Pyqt5` argument to the compiler.
