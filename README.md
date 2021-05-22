@@ -16,7 +16,7 @@ If you have any issues - Sorry, I won't fix them.
 
 ## Usage
 
-Just enter the desired video URL, check if the details are correct, select the format and perhaps custom path. Click download and you're set!
+Just enter the desired video URL, check if the details are correct, select the format. You can also select a custom path if you want. Click download and you're set!
 
 ## Contributing
 
